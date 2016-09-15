@@ -1,0 +1,29 @@
+# File patterns to ignore; see `git help ignore` for more information.
+# Lines that start with '#' are comments.
+##################################################
+# FOLDERS (Working Directories)
+##################################################
+SPlsWork
+Archive
+_Archive
+##################################################
+# PREFIXES (Temporary / Manually Hidden)
+##################################################
+~*
+I-*
+##################################################
+# FILES (Uneeded / Redundant / Auto-Generated)
+##################################################
+*.ASV
+*.sgd2
+*_archive.zip
+*.csp
+boot.bt
+*.bin
+*.cdm
+*.cloud
+*.dip
+*.dsc
+*.rte
+*.spp
+*.zig
